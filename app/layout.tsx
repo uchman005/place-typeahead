@@ -2,7 +2,7 @@ import type { Metadata, Viewport } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Place search — typeahead demo",
+  title: "Where are you looking for?",
   description: "Debounced, accessible, race-safe place autocomplete for Nigerian locations.",
 };
 
