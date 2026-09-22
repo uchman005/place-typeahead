@@ -4,7 +4,7 @@ export default function Page() {
   return (
     <main className="page">
       <header className="intro">
-        <h1>Where are you looking?</h1>
+        <h1>Where are you looking for?</h1>
         <p>
           Search any area, town or city in Nigeria. Results come from the Open-Meteo geocoder through
           this app&rsquo;s own <code>/api/places</code> route.
